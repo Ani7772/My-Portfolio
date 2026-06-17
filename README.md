@@ -93,8 +93,8 @@ I'm Aniket Basu, a B.Tech CSE (UI/UX) student at Bennett University passionate a
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/aniket-basu-6a5896298/)
-- Behance: [https://www.behance.net/your-behance](https://www.behance.net/aniketdzns)
+- LinkedIn: https://www.linkedin.com/in/aniket-basu-6a5896298/
+- Behance: https://www.behance.net/aniketdzns
 - GitHub: https://github.com/Ani7772
 
 ## 📄 License
